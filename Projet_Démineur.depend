@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1678878275 source:d:\années_universitaires\l2iirt-esgis\projets\langage c\projet_démineur\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions.h"
+	<windows.h>
+
+1678558519 d:\années_universitaires\l2iirt-esgis\projets\langage c\projet_démineur\affichegrille.h
+	"positionCurseur.h"
+
+1678558519 d:\années_universitaires\l2iirt-esgis\projets\langage c\projet_démineur\positioncurseur.h
+	<conio.h>
+	<windows.h>
+
+1678870055 d:\années_universitaires\l2iirt-esgis\projets\langage c\projet_démineur\fonctions.h
+	<conio.h>
+	<windows.h>
+
